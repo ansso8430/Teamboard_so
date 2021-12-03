@@ -38,6 +38,7 @@
            - login
            - join
            - socialLogin
+           - superLogin
            
     board
            - write
@@ -47,6 +48,9 @@
            - delete
            - comment
            - pagenation
+           - search
+           - upload
+           - viewCnt
            ....
            
       
@@ -85,6 +89,7 @@
 - 새로 작성한 글 new표시
 - 페이지네이션 구현
 - 조회수 확인
+- 검색
 
 <br>
 
